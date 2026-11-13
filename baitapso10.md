@@ -1,6 +1,6 @@
 # BÀI 10: TÍNH TOÁN CHI PHÍ API DOANH NGHIỆP & ENTERPRISE SECURITY
 
-**Môn học:** Kỹ năng Prompting với AI (IT206-K26) - Session 01 - Ex10.
+## **Môn học:** Kỹ năng Prompting với AI (IT206-K26) - Session 01 - Ex10.
 **Tình huống:** Giải quyết bài toán tính toán chi phí Token chính xác và thiết kế hạ tầng API an toàn cho chiến dịch gửi 50.000 tin nhắn Zalo của phòng Marketing MartX.
 ---
 
